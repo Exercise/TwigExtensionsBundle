@@ -6,7 +6,7 @@
 
     <services>
 
-        <service id="twig.extension.debug" class="Twig_Extension_Debug">
+        <service id="twig.extension.debug" class="Twig_Extensions_Extension_Debug">
             <tag name="twig.extension" />
         </service>
 
